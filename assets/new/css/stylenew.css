@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 21, 2016, 7:54:43 PM
+    Author     : LingGos
+*/
+
+.table.dataTable.dataTable-scroll-x{border-collapse:separate;max-width:none}
+.table.dataTable.dataTable-scroll-x td{white-space:nowrap}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned{border-right:2px solid #ddd}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned th{border-right:2px solid #333}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned td{text-align:center}
