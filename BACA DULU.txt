@@ -1,5 +1,5 @@
 =================================================================================================================================
---UNTUK DATABASE (database/app_tugasakhir.sql)
+--UNTUK DATABASE (database/db-datmin.sql)
 =================================================================================================================================
 RECOMENDASI SOFTWARE
 --Browser	: Google Chrome Version 51.0.2704.106 m keatas
@@ -8,8 +8,4 @@ RECOMENDASI SOFTWARE
 RECOMENDASI HARDWARE
 --RAM minimum 4 GB
 --Preccesor Core i5 atau i7
-==================================================================================================================================
---PERHATIAN : WAKTU EKSEKUSI APLIKASI DALAM IDENTIFIKASI CITRA BERGANTUNG PADA BESAR RESOLUSI CITRA DAN PERANGKAT YANG DIGUNAKAN--
-==================================================================================================================================
-
 
